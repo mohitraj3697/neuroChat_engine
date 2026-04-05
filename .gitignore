@@ -1,0 +1,14 @@
+# Environments
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+*.db
+*.sqlite
