@@ -106,27 +106,11 @@ source venv/bin/activate
 
 Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+
 
 Create a `.env` file:
 
-```env
-OPENAI_API_KEY=your_key
-DB_PATH=data/chat.db
-```
-
 ---
-
-## Run
-
-```bash
-python app/main.py
-```
-
----
-
 
 ## Roadmap
 
