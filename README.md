@@ -93,7 +93,7 @@ User input is processed through a structured pipeline:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/neurochat_engine.git
+git clone https://github.com/mohitraj3697/neurochat_engine.git
 cd neurochat_engine
 ```
 
